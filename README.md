@@ -39,23 +39,23 @@ Tools & Software: UX/UI Design 🎨, MS Office, Application Deployment
 
 Developed using OpenWeather API, reducing manual tracking by 90%.
 
-Ensured timely alerts with 99% accuracy.
+Ensured timely alerts with 99% accuracy. Projet Link = https://github.com/HareKrishanaMishra787/Weather-Notification-Bot
 
 🔹 RentALL - Online Product Rental Platform 🏠
 
 Built a secure rental platform using WordPress, PHP, and MySQL.
 
-Implemented OTP verification for added security.
+Implemented OTP verification for added security.Projet Link=https://github.com/HareKrishanaMishra787/Rent-All-Capstone-proj.-
 
 🔹 Automated Email Generator 📧
 
 Designed a Python-based intelligent email automation system.
 
-Reduced manual workload by 80%, improving customer engagement.
+Reduced manual workload by 80%, improving customer engagement.Projet Link = https://github.com/HareKrishanaMishra787/Birthday-Reminder
 
 🔹 Classic Arcade Games 🎮
 
-Created interactive games like Snake & Pong using Python & Tkinter.
+Created interactive games like Snake & Pong using Python & Tkinter. Projet Link = https://github.com/HareKrishanaMishra787/Games
 
 Showcased skills in OOP and UI development.
 
