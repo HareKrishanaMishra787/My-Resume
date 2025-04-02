@@ -12,7 +12,7 @@ Aspiring IT professional with a strong foundation in computer science and hands-
 SmartBridge Educational Services Pvt. Ltd. | Data Analytics Intern (May 2023 - July 2023)
 
 ✅ Developed strong organizational and time management skills<br>✅ Gained expertise in statistical analysis, data visualization, and EDA<br>✅ Earned Data Visualization Certification (Tableau)<br>✅ Worked on IBM-powered project "Suicides in India Visualizations"<br>
-links = https://drive.google.com/file/d/1gkA2qDbLnidarxDAv7CFv-MJZ_h7kv3k/view?usp=sharing,<br> https://drive.google.com/file/d/1EAgWOY_q8TTDfHBCj9p2Lqw_bDu-rx4d/view?usp=sharing
+links = https://drive.google.com/file/d/1gkA2qDbLnidarxDAv7CFv-MJZ_h7kv3k/view?usp=sharing,<br> https://drive.google.com/file/d/1LMSYx_slnueUI5_kloplq-1MuU5BjGsB/view?usp=drive_link
 
 🎓 Education
 
